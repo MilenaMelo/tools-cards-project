@@ -52,9 +52,7 @@ span {
 }
 
 .cards-middle-info {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
+  grid-gap: 30px;
 }
 
 .title {

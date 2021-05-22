@@ -48,29 +48,5 @@ span {
   display: flex;
   align-items: center;
   grid-gap: 30px;
-  margin: 64px auto 80px auto;
-}
-
-.cards-middle-info {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-}
-
-.title {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 6px;
-}
-
-.content {
-  font-size: 13px;
-  margin-bottom: 40px;
-}
-
-.icon {
-  height: 64px;
-  width: 64px;
-  display: flex;
-  margin-left: auto;
+  margin: 0 auto 20px auto;
 }

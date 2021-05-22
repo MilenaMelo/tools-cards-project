@@ -31,46 +31,15 @@ h2 {
 
 span {
   font-size: 15px;
-  width: 540px;
+  width: 186px;
   text-align: center;
 }
 
 .card {
-  width: 286px;
-  height: 186px;
+  width: 285px;
+  height: 250px;
   background-color: #FFFFFF;
   box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
   border-radius: 8px;
   padding: 32px;
-}
-
-.cards-info {
-  display: flex;
-  align-items: center;
-  grid-gap: 30px;
-  margin: 64px auto 80px auto;
-}
-
-.cards-middle-info {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-}
-
-.title {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 6px;
-}
-
-.content {
-  font-size: 13px;
-  margin-bottom: 40px;
-}
-
-.icon {
-  height: 64px;
-  width: 64px;
-  display: flex;
-  margin-left: auto;
 }

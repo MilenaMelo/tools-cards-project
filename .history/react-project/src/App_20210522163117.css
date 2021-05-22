@@ -48,13 +48,7 @@ span {
   display: flex;
   align-items: center;
   grid-gap: 30px;
-  margin: 64px auto 80px auto;
-}
-
-.cards-middle-info {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
+  margin: 64px auto 20px auto;
 }
 
 .title {
