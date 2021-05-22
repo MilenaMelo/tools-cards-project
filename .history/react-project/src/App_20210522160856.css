@@ -33,4 +33,5 @@ span {
   font-size: 15px;
   width: 540px;
   text-align: center;
+  margin: 0 auto 64px auto;
 }
