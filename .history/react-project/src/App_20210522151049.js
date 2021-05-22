@@ -5,15 +5,8 @@ import teamBuilderIcon from "./img/002-homepage.png"
 import karmaIcon from "./img/009-idea.png"
 import calculatorIcon from "./img/045-software.png"
 
-
 function Card({ cardInfo }) {
-  return (
-    <div className="card">
-      <div className="title">{cardInfo.title}</div>
-      <div className="content">{cardInfo.content}</div>
-      <img className="icon" src={cardInfo.icon} alt={cardInfo.cardHeader} />
-    </div>
-  )
+
 }
 
 
